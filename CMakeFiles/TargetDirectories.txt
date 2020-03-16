@@ -1,0 +1,4 @@
+/home/dlinano/my-recognition-python/CMakeFiles/rebuild_cache.dir
+/home/dlinano/my-recognition-python/CMakeFiles/edit_cache.dir
+/home/dlinano/my-recognition-python/CMakeFiles/my-recognition.dir
+/home/dlinano/my-recognition-python/CMakeFiles/detectnet-camera.dir

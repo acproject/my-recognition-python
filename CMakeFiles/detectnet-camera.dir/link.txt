@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/detectnet-camera.dir/detectnet-camera.cpp.o  -o detectnet-camera /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 
